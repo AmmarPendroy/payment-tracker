@@ -1,5 +1,5 @@
 import streamlit as st
-import psycopg2
+import psycopg
 import pandas as pd
 from datetime import datetime, timedelta
 import time
